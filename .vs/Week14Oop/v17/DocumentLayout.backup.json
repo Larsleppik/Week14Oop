@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\Week14Oop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{504827FD-7FD5-4C43-94B7-01F0EE683676}|Week14Oop\\Week14Oop.csproj|c:\\users\\admin\\source\\repos\\week14oop\\week14oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504827FD-7FD5-4C43-94B7-01F0EE683676}|Week14Oop\\Week14Oop.csproj|solutionrelative:week14oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Week14Oop\\Week14Oop\\Program.cs",
+              "RelativeDocumentMoniker": "Week14Oop\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Week14Oop\\Week14Oop\\Program.cs",
+              "RelativeToolTip": "Week14Oop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T22:33:10.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
